@@ -2,6 +2,9 @@
 
 This repo contains a few notebooks that introduce the basic functions of the MIT music21 package.
 
+Before you start with anything, please install music21 using this guide:  
+http://web.mit.edu/music21/doc/usersGuide/usersGuide_01_installing.html
+
 ### What to do from here:
 
 1. Search within music21 corpus for data that are:
